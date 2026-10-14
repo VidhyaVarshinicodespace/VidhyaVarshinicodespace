@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm VidhyaVarshini Padmanaban👋
 
-<!--
-**VidhyaVarshinicodespace/VidhyaVarshinicodespace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Pre-Final Year Computer Science Engineering Student | Aspiring Software Engineer
 
-Here are some ideas to get you started:
+I'm a Computer Science and Engineering student at Kumaraguru College of Technology (KCT), interested in software development, problem-solving, and building practical applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Skills
+- **Programming:** Python, Java, C++
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB, MySQL
+- **Core CS:** Data Structures and Algorithms, OOP, DBMS
+
+## 🚀 Featured Projects
+- **Student Academic and Career Profiling System** — Full-stack student profiling application.
+- **Amazon Product Cart** — React application demonstrating components, props, state, and controlled inputs.
+- **Student Management System** — React project demonstrating reusable components and props.
+- **Student Practice Tracker** — React application demonstrating state and effect hooks.
+
+## 🌱 Currently Learning
+- Data Structures and Algorithms
+- Full-stack application development
+- Cloud computing and application security
+
+## 📫 Connect With Me
+- **LinkedIn:** https://www.linkedin.com/in/vidhyavarshini-padmanaban-68813632a/
+- **GitHub:** https://github.com/VidhyaVarshinicodespace
