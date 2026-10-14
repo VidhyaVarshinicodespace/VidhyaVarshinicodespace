@@ -12,11 +12,11 @@ I'm a Computer Science and Engineering student at Kumaraguru College of Technolo
 - **Core CS:** Data Structures and Algorithms, OOP, DBMS
 
 ## 🚀 Featured Projects
-- **Student Academic and Career Profiling System** — Full-stack student profiling application.
-- **Amazon Product Cart** — React application demonstrating components, props, state, and controlled inputs.
-- **Student Management System** — React project demonstrating reusable components and props.
-- **Student Practice Tracker** — React application demonstrating state and effect hooks.
-
+- [**Student Academic and Career Profiling System**](https://github.com/VidhyaVarshinicodespace/student-academic-career-profiling-system) — Full-stack student profiling application.
+- [**Amazon Product Cart**](https://github.com/VidhyaVarshinicodespace/amazon-product-cart) — React application demonstrating components, props, state, and controlled inputs.
+- [**Student Management System**](https://github.com/VidhyaVarshinicodespace/student-management-system) — React project demonstrating reusable components and props.
+- [**Student Practice Tracker**](https://github.com/VidhyaVarshinicodespace/student-practice-tracker) — React application demonstrating state and effect hooks.
+  
 ## 🌱 Currently Learning
 - Data Structures and Algorithms
 - Full-stack application development
